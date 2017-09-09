@@ -1,4 +1,4 @@
-#Realtek 802.11ac (rtl8812au) Linux Driver
+# Realtek 802.11ac (rtl8821au) Linux Driver  
 
 The driver was originally from [HERE](http://www.edup.cn/ep-db1638).  
 
